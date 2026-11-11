@@ -11,4 +11,6 @@ Carga horária de 24 horas
 ## Git e Github 2025
 By: Téo Calvo  
 Concluído em 29/07/2026  
-
+## Introdução ao Python
+By: Téo Calvo  
+Concluído em 11/11/2026  
